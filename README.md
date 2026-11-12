@@ -1,5 +1,7 @@
 # Employee Sentiment Analysis Core Pipeline
 
+**Employee Sentiment Analysis project family:** [Project guide](https://github.com/MRodriguez2010/Revelio/blob/main/docs/employee-sentiment-analysis-projects.md) · [Revelio interactive demo](https://github.com/MRodriguez2010/Revelio)
+
 This public workflow takes a CSV of aggregate survey counts, checks that every company–quarter–topic appears once, separates the focus company from its peers and generates an editable PowerPoint. It uses a new schema, fictional data and a neutral presentation design.
 
 ```sh
